@@ -1,0 +1,3 @@
+/home/ug2021/c21308128/cs4115/labs/week03/cmake-build-debug/CMakeFiles/week03.dir
+/home/ug2021/c21308128/cs4115/labs/week03/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/ug2021/c21308128/cs4115/labs/week03/cmake-build-debug/CMakeFiles/rebuild_cache.dir
